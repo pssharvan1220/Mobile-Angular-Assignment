@@ -1,0 +1,12 @@
+.spacer{
+    margin-left: 15px;
+}
+.card-border{
+    margin-bottom: 4px;
+    border: 1px solid blanchedalmond;
+}
+@media only screen and (min-width: 767px){
+    .menu-button{
+        display: none;
+    }
+}
